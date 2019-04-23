@@ -9,5 +9,7 @@ techniques and how it can dramatically improves the accuracy of diagnosis.
 Research indicates that most experienced physicians can diagnose cancer with 79 percent accuracy while
 91 percent correct diagnosis is achieved using machine learning techniques.
 
-The data set has five hundred and sixty nine instances which divided between them some of them  malignant and some ofbenign.
+Using Visulization and Machine Learning techniques I have classified the tumor as benign or malignant.
+
+As you see my python code you will be able to understand what I have done.
 
